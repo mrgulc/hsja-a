@@ -12,6 +12,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrgulc/hsja-a"
+    "url": "git+https://github.com/mrgulc/hsja-a.git"
   }
 }
