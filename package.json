@@ -1,0 +1,17 @@
+{
+  "name": "@hsja/a",
+  "version": "1.0.0",
+  "author": "mrg",
+  "description": "test pnpm",
+  "main": "src/index.js",
+  "module": "src/index.es.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrgulc/hsja-a"
+  }
+}
